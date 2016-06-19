@@ -1,0 +1,5 @@
+forum/control/CreatePost.class
+forum/model/ForumPost.class
+forum/control/ViewPosts.class
+forum/control/Login.class
+forum/model/FilePostHandler.class
