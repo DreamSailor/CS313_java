@@ -18,6 +18,7 @@
 <body> 
 
     <h2>Forum List</h2>
+    <a href="forum.jsp">Create new Post</a><br/>
     <div>
                 
         Discussion Thread<br /><br />
@@ -35,6 +36,8 @@
 
         </c:forEach>
     </div>
+        
+     
 
 </body> 
 </html>
